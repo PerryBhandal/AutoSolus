@@ -3,6 +3,12 @@ AutoSolus
 
 AutoSolus is a tool to automatically monitor and join full classes through Queen's University's SOLUS system
 
+Dependencies
+========
+AutoSolus requires that Python bindings for selenium be installed. You can find a detailed description of Selenium, along with installation info at the link below.
+
+https://pypi.python.org/pypi/selenium
+
 Setup Instructions
 =========
 1) Open autoSolus.py and enter your Queen's netID and password (in USERNAME and PASSWORD, respectively).
