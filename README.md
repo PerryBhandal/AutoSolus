@@ -9,7 +9,8 @@ Setup Instructions
 
 2) Log into SOLUS and add the courses you wish to join that are currently full to your shopping cart.
 
-Install Instructions
+Usage Instructions
+=========
 
 To run AutoSolus you can either 
 
